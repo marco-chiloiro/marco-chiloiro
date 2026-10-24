@@ -1,7 +1,7 @@
 # Marco Chiloiro
 
 Physics Bachelor Degree, Trento \
-Physics of Data student, Padua
+Physics of Data Master Degree, Padua
 
 ### Languages and Tools
 
