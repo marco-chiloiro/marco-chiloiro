@@ -1,7 +1,12 @@
 # Marco Chiloiro
 
-Physics Bachelor Degree, Trento \
-Physics of Data Master Degree, Padua
+Hi, I'm Marco 👋
+
+I'm a Data Scientist with a degree in Physics of Data.
+
+This profile collects projects developed during my academic journey at the University of Trento and the University of Padua.
+
+Feel free to explore my projects!
 
 ### Languages and Tools
 
